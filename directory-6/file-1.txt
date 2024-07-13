@@ -1,1 +1,3 @@
 Hello world from directory 6
+
+Another text line added
