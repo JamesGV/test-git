@@ -1,3 +1,5 @@
 Hello world from directory 2
 
 Another text line added into directory-2's file
+
+third line added
